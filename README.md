@@ -8,3 +8,4 @@ Frameworks: Spring Boot
 
 Tools: Maven
 
+IDE: IntelliJ Idea
